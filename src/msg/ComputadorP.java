@@ -1,5 +1,9 @@
 package msg;
 
+import apps.FacebookMessenger;
+import apps.MSNMessenger;
+import apps.Telegram;
+
 public class ComputadorP {
     public static void main(String[] args) {
 
