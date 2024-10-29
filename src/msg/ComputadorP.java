@@ -17,7 +17,6 @@ public class ComputadorP {
         Telegram tlg = new Telegram();
         tlg.enviarMensagem();
         tlg.receberMensagem();
-
     }
 
 }
